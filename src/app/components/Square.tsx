@@ -14,5 +14,3 @@ function Square(props: SquareProps): JSX.Element {
 }
 
 export default Square;
-
-// value is state and setValue is setter function
